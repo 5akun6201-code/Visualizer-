@@ -1,5 +1,10 @@
 {
   "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "385fb6e5-65bf-485f-9667-0ceceb513471"
+      }
+    },
     "name": "VisualBeat",
     "slug": "visualbeat",
     "version": "1.0.0",
